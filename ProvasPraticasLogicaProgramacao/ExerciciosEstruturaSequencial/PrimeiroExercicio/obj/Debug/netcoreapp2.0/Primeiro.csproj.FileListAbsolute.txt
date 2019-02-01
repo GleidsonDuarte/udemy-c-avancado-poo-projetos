@@ -1,0 +1,11 @@
+C:\Users\dev04\source\repos\ProvasPraticasLogicaProgramacao\ExercicioEstruturaSequencial1\bin\Debug\netcoreapp2.0\Primeiro.deps.json
+C:\Users\dev04\source\repos\ProvasPraticasLogicaProgramacao\ExercicioEstruturaSequencial1\bin\Debug\netcoreapp2.0\Primeiro.runtimeconfig.json
+C:\Users\dev04\source\repos\ProvasPraticasLogicaProgramacao\ExercicioEstruturaSequencial1\bin\Debug\netcoreapp2.0\Primeiro.runtimeconfig.dev.json
+C:\Users\dev04\source\repos\ProvasPraticasLogicaProgramacao\ExercicioEstruturaSequencial1\bin\Debug\netcoreapp2.0\Primeiro.dll
+C:\Users\dev04\source\repos\ProvasPraticasLogicaProgramacao\ExercicioEstruturaSequencial1\bin\Debug\netcoreapp2.0\Primeiro.pdb
+C:\Users\dev04\source\repos\ProvasPraticasLogicaProgramacao\ExercicioEstruturaSequencial1\obj\Debug\netcoreapp2.0\Primeiro.csprojAssemblyReference.cache
+C:\Users\dev04\source\repos\ProvasPraticasLogicaProgramacao\ExercicioEstruturaSequencial1\obj\Debug\netcoreapp2.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\Users\dev04\source\repos\ProvasPraticasLogicaProgramacao\ExercicioEstruturaSequencial1\obj\Debug\netcoreapp2.0\Primeiro.AssemblyInfoInputs.cache
+C:\Users\dev04\source\repos\ProvasPraticasLogicaProgramacao\ExercicioEstruturaSequencial1\obj\Debug\netcoreapp2.0\Primeiro.AssemblyInfo.cs
+C:\Users\dev04\source\repos\ProvasPraticasLogicaProgramacao\ExercicioEstruturaSequencial1\obj\Debug\netcoreapp2.0\Primeiro.dll
+C:\Users\dev04\source\repos\ProvasPraticasLogicaProgramacao\ExercicioEstruturaSequencial1\obj\Debug\netcoreapp2.0\Primeiro.pdb
