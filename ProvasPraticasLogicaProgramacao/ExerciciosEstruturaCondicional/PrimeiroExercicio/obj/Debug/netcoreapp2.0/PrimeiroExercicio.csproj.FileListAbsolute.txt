@@ -9,3 +9,14 @@ C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaPr
 C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\obj\Debug\netcoreapp2.0\PrimeiroExercicio.AssemblyInfo.cs
 C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\obj\Debug\netcoreapp2.0\PrimeiroExercicio.dll
 C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\obj\Debug\netcoreapp2.0\PrimeiroExercicio.pdb
+C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\bin\Debug\netcoreapp2.0\PrimeiroExercicio.deps.json
+C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\bin\Debug\netcoreapp2.0\PrimeiroExercicio.runtimeconfig.json
+C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\bin\Debug\netcoreapp2.0\PrimeiroExercicio.runtimeconfig.dev.json
+C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\bin\Debug\netcoreapp2.0\PrimeiroExercicio.dll
+C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\bin\Debug\netcoreapp2.0\PrimeiroExercicio.pdb
+C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\obj\Debug\netcoreapp2.0\PrimeiroExercicio.csprojAssemblyReference.cache
+C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\obj\Debug\netcoreapp2.0\PrimeiroExercicio.csproj.CoreCompileInputs.cache
+C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\obj\Debug\netcoreapp2.0\PrimeiroExercicio.AssemblyInfoInputs.cache
+C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\obj\Debug\netcoreapp2.0\PrimeiroExercicio.AssemblyInfo.cs
+C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\obj\Debug\netcoreapp2.0\PrimeiroExercicio.dll
+C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\PrimeiroExercicio\obj\Debug\netcoreapp2.0\PrimeiroExercicio.pdb
