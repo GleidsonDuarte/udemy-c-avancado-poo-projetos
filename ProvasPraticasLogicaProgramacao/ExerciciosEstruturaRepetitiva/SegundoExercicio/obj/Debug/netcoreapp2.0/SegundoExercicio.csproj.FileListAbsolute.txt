@@ -20,3 +20,14 @@ C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaPr
 C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\SegundoExercicio\obj\Debug\netcoreapp2.0\SegundoExercicio.AssemblyInfo.cs
 C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\SegundoExercicio\obj\Debug\netcoreapp2.0\SegundoExercicio.dll
 C:\Users\dev04\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaCondicional\SegundoExercicio\obj\Debug\netcoreapp2.0\SegundoExercicio.pdb
+C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaRepetitiva\SegundoExercicio\bin\Debug\netcoreapp2.0\SegundoExercicio.deps.json
+C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaRepetitiva\SegundoExercicio\bin\Debug\netcoreapp2.0\SegundoExercicio.runtimeconfig.json
+C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaRepetitiva\SegundoExercicio\bin\Debug\netcoreapp2.0\SegundoExercicio.runtimeconfig.dev.json
+C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaRepetitiva\SegundoExercicio\bin\Debug\netcoreapp2.0\SegundoExercicio.dll
+C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaRepetitiva\SegundoExercicio\bin\Debug\netcoreapp2.0\SegundoExercicio.pdb
+C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaRepetitiva\SegundoExercicio\obj\Debug\netcoreapp2.0\SegundoExercicio.csprojAssemblyReference.cache
+C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaRepetitiva\SegundoExercicio\obj\Debug\netcoreapp2.0\SegundoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaRepetitiva\SegundoExercicio\obj\Debug\netcoreapp2.0\SegundoExercicio.AssemblyInfoInputs.cache
+C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaRepetitiva\SegundoExercicio\obj\Debug\netcoreapp2.0\SegundoExercicio.AssemblyInfo.cs
+C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaRepetitiva\SegundoExercicio\obj\Debug\netcoreapp2.0\SegundoExercicio.dll
+C:\Users\gleid\Desktop\udemy-csharp-avancado-poo-projetos\ProvasPraticasLogicaProgramacao\ExerciciosEstruturaRepetitiva\SegundoExercicio\obj\Debug\netcoreapp2.0\SegundoExercicio.pdb
