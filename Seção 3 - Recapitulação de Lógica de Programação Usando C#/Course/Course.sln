@@ -5,11 +5,15 @@ VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioFixacaoSaidaDados", "ExercicioFixacaoSaidaDados\ExercicioFixacaoSaidaDados.csproj", "{7322B84C-3493-453D-B4BC-5590D98BDEA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaSaidaDados", "AulaSaidaDados\AulaSaidaDados.csproj", "{22B7D892-6F42-497A-85BB-FF69D7E9E4ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaSaidaDados", "AulaSaidaDados\AulaSaidaDados.csproj", "{22B7D892-6F42-497A-85BB-FF69D7E9E4ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaOperadoresAritmeticos", "AulaOperadoresAritmeticos\AulaOperadoresAritmeticos.csproj", "{BF942D96-797D-4C9C-A0CA-D6B4FAA8672E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaOperadoresAritmeticos", "AulaOperadoresAritmeticos\AulaOperadoresAritmeticos.csproj", "{BF942D96-797D-4C9C-A0CA-D6B4FAA8672E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaOperadoresAtribuicao", "AulaOperadoresAtribuicao\AulaOperadoresAtribuicao.csproj", "{554AD073-5DFA-4ADD-9632-077CDD87992F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaOperadoresAtribuicao", "AulaOperadoresAtribuicao\AulaOperadoresAtribuicao.csproj", "{554AD073-5DFA-4ADD-9632-077CDD87992F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoImplicitaCasting", "ConversaoImplicitaCasting\ConversaoImplicitaCasting.csproj", "{0AF183D6-E7D2-4B4B-A433-A4DAE6475CD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDados", "EntradaDados\EntradaDados.csproj", "{B66C94D6-58BF-4115-ABB7-FA1E5ABAE9C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{554AD073-5DFA-4ADD-9632-077CDD87992F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{554AD073-5DFA-4ADD-9632-077CDD87992F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{554AD073-5DFA-4ADD-9632-077CDD87992F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF183D6-E7D2-4B4B-A433-A4DAE6475CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF183D6-E7D2-4B4B-A433-A4DAE6475CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF183D6-E7D2-4B4B-A433-A4DAE6475CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF183D6-E7D2-4B4B-A433-A4DAE6475CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66C94D6-58BF-4115-ABB7-FA1E5ABAE9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66C94D6-58BF-4115-ABB7-FA1E5ABAE9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66C94D6-58BF-4115-ABB7-FA1E5ABAE9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66C94D6-58BF-4115-ABB7-FA1E5ABAE9C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
