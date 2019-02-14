@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioFixacaoSaidaDados", "ExercicioFixacaoSaidaDados\ExercicioFixacaoSaidaDados.csproj", "{7322B84C-3493-453D-B4BC-5590D98BDEA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercFixacaoSaidaDados", "ExercicioFixacaoSaidaDados\ExercFixacaoSaidaDados.csproj", "{7322B84C-3493-453D-B4BC-5590D98BDEA0}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaSaidaDados", "AulaSaidaDados\AulaSaidaDados.csproj", "{22B7D892-6F42-497A-85BB-FF69D7E9E4ED}"
 EndProject
@@ -11,9 +11,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaOperadoresAritmeticos",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaOperadoresAtribuicao", "AulaOperadoresAtribuicao\AulaOperadoresAtribuicao.csproj", "{554AD073-5DFA-4ADD-9632-077CDD87992F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoImplicitaCasting", "ConversaoImplicitaCasting\ConversaoImplicitaCasting.csproj", "{0AF183D6-E7D2-4B4B-A433-A4DAE6475CD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoImplicitaCasting", "ConversaoImplicitaCasting\ConversaoImplicitaCasting.csproj", "{0AF183D6-E7D2-4B4B-A433-A4DAE6475CD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntradaDados", "EntradaDados\EntradaDados.csproj", "{B66C94D6-58BF-4115-ABB7-FA1E5ABAE9C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntradaDados", "EntradaDados\EntradaDados.csproj", "{B66C94D6-58BF-4115-ABB7-FA1E5ABAE9C7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercFixacaoEntradaDados", "ExercFixacaoEntradaDados\ExercFixacaoEntradaDados.csproj", "{3924E84B-8412-406E-BCFA-49524D902E0B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaOperadoresComparativos", "AulaOperadoresComparativos\AulaOperadoresComparativos.csproj", "{F2C4ADE6-D36A-422E-9747-41DAA3AC5F9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaOperadoresLogicos", "AulaOperadoresLogicos\AulaOperadoresLogicos.csproj", "{0F8C1A80-DF32-4727-A71F-633EE3F6C792}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaEstruturaCondicional", "AulaEstruturaCondicional\AulaEstruturaCondicional.csproj", "{2351A40B-4DBE-4ADF-9B26-47E54C4DB730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaEscopoInicializacao", "AulaEscopoInicializacao\AulaEscopoInicializacao.csproj", "{5DFB0AC6-66BB-426E-ABBB-6201C6FD0796}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +55,26 @@ Global
 		{B66C94D6-58BF-4115-ABB7-FA1E5ABAE9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B66C94D6-58BF-4115-ABB7-FA1E5ABAE9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B66C94D6-58BF-4115-ABB7-FA1E5ABAE9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3924E84B-8412-406E-BCFA-49524D902E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3924E84B-8412-406E-BCFA-49524D902E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3924E84B-8412-406E-BCFA-49524D902E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3924E84B-8412-406E-BCFA-49524D902E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C4ADE6-D36A-422E-9747-41DAA3AC5F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C4ADE6-D36A-422E-9747-41DAA3AC5F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C4ADE6-D36A-422E-9747-41DAA3AC5F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C4ADE6-D36A-422E-9747-41DAA3AC5F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8C1A80-DF32-4727-A71F-633EE3F6C792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8C1A80-DF32-4727-A71F-633EE3F6C792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8C1A80-DF32-4727-A71F-633EE3F6C792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8C1A80-DF32-4727-A71F-633EE3F6C792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2351A40B-4DBE-4ADF-9B26-47E54C4DB730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2351A40B-4DBE-4ADF-9B26-47E54C4DB730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2351A40B-4DBE-4ADF-9B26-47E54C4DB730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2351A40B-4DBE-4ADF-9B26-47E54C4DB730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DFB0AC6-66BB-426E-ABBB-6201C6FD0796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DFB0AC6-66BB-426E-ABBB-6201C6FD0796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DFB0AC6-66BB-426E-ABBB-6201C6FD0796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DFB0AC6-66BB-426E-ABBB-6201C6FD0796}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
