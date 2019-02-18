@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaEscopoInicializacao", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaFuncoes", "AulaFuncoes\AulaFuncoes.csproj", "{62011772-7638-42F0-8233-61658BDAD973}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaEstruturaRepetitiva", "AulaEstruturaRepetitiva\AulaEstruturaRepetitiva.csproj", "{F8223380-89FB-441B-BB29-CD2A766FFC49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaEstruturaRepetitiva", "AulaEstruturaRepetitiva\AulaEstruturaRepetitiva.csproj", "{F8223380-89FB-441B-BB29-CD2A766FFC49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercEstruturaSequencial", "ExercEstruturaSequencial\ExercEstruturaSequencial.csproj", "{F1539094-0FBA-485C-8A53-587F3632EE6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{F8223380-89FB-441B-BB29-CD2A766FFC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8223380-89FB-441B-BB29-CD2A766FFC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8223380-89FB-441B-BB29-CD2A766FFC49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1539094-0FBA-485C-8A53-587F3632EE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1539094-0FBA-485C-8A53-587F3632EE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1539094-0FBA-485C-8A53-587F3632EE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1539094-0FBA-485C-8A53-587F3632EE6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
