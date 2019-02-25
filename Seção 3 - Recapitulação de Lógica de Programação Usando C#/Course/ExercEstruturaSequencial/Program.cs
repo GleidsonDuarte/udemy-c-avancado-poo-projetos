@@ -7,7 +7,7 @@ namespace ExercEstruturaSequencial
     {
         static void Main(string[] args)
         {
-            
+
         }
 
         #region Exercício 1
@@ -48,7 +48,7 @@ namespace ExercEstruturaSequencial
          * de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A * B - C * D).
          */
 
-        public static void diferencaEntreABeCD()
+        public static void DiferencaEntreABeCD()
         {
             Console.WriteLine("Digite o valor de A");
             int a = int.Parse(Console.ReadLine());
@@ -89,6 +89,41 @@ namespace ExercEstruturaSequencial
 
             Console.WriteLine($"NUMBER = {numeroFuncionario}");
             Console.WriteLine($"SALARY = U$ {salario.ToString("F2", CultureInfo.InvariantCulture)}");
+        }
+        #endregion
+
+        #region Exercício 5
+        /* Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o
+         * código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.
+         */
+
+        public static void ValorProdutosSerPago()
+        {
+            Console.Write("Digite o códgio da peça: ");
+            int peca1 = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o número de peças: ");
+            int quantidade1 = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o valor unitário de cada peça: ");
+            double valorUnitario1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.WriteLine();
+
+            Console.Write("Digite o códgio da peça: ");
+            int peca2 = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o número de peças: ");
+            int quantidade2 = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o valor unitário de cada peça: ");
+            double valorUnitario2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            double total = (quantidade1 * valorUnitario1) + (quantidade2 * valorUnitario2);
+
+            Console.WriteLine();
+
+            Console.WriteLine($"VALOR A PAGAR: R$ {total.ToString("F2", CultureInfo.InvariantCulture)}");
         }
         #endregion
     }

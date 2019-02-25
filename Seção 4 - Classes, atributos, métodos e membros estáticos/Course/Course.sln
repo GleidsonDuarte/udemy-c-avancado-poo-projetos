@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemaSemOrientacaoObjeto", "ProblemaSemOrientacaoObjeto\ProblemaSemOrientacaoObjeto.csproj", "{74015B8F-D3AD-4A3E-B0D4-94D8048B107D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemaComOrientacaoObjeto", "ProblemaComOrientacaoObjeto\ProblemaComOrientacaoObjeto.csproj", "{06BEAF15-8305-444D-B3AE-17FE9CEC8C8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemaComOrientacaoObjeto", "ProblemaComOrientacaoObjeto\ProblemaComOrientacaoObjeto.csproj", "{06BEAF15-8305-444D-B3AE-17FE9CEC8C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercProduto", "ExercProduto\ExercProduto.csproj", "{FB297B05-1871-4349-A554-48D3465BDFD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{06BEAF15-8305-444D-B3AE-17FE9CEC8C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06BEAF15-8305-444D-B3AE-17FE9CEC8C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06BEAF15-8305-444D-B3AE-17FE9CEC8C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB297B05-1871-4349-A554-48D3465BDFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB297B05-1871-4349-A554-48D3465BDFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB297B05-1871-4349-A554-48D3465BDFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB297B05-1871-4349-A554-48D3465BDFD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
