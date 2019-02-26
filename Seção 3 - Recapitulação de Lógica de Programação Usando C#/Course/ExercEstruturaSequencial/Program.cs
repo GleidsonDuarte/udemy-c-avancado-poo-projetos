@@ -7,7 +7,12 @@ namespace ExercEstruturaSequencial
     {
         static void Main(string[] args)
         {
-
+            SomaDoisNumeros();
+            AreaRaio();
+            DiferencaEntreABeCD();
+            CalculaSalario();
+            ValorProdutosSerPago();
+            CalculaAreas();
         }
 
         #region Exercício 1
@@ -124,6 +129,46 @@ namespace ExercEstruturaSequencial
             Console.WriteLine();
 
             Console.WriteLine($"VALOR A PAGAR: R$ {total.ToString("F2", CultureInfo.InvariantCulture)}");
+        }
+        #endregion
+
+        #region Exercício 6
+        /*
+         * Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C.Em seguida, calcule e mostre:
+         * a) a área do triângulo retângulo que tem A por base e C por altura.
+         * b) a área do círculo de raio C. (pi = 3.14159)
+         * c) a área do trapézio que tem A e B por bases e C por altura.
+         * d) a área do quadrado que tem lado B.
+         * e) a área do retângulo que tem lados A e B.
+         */
+        public static void CalculaAreas()
+        {
+            Console.Write("Digite o valor de A: ");
+            double a = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.Write("Digite o valor de B: ");
+            double b = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            Console.Write("Digite o valor de A: ");
+            double c = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            double areaTrianguloRetangulo = a * c / 2;
+
+            double areaCirculo = Math.PI * Math.Pow(c, 2);
+
+            double areaTrapezio = (a + b) / 2 * c;
+
+            double areaQuadrado = Math.Pow(b, 2);
+
+            double areaRetangulo = a * b;
+
+            Console.WriteLine();
+
+            Console.WriteLine($"TRIÂNGULO: {areaTrianguloRetangulo.ToString("F3", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"CIRCULO: {areaCirculo.ToString("F3", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"TRAPÉZIO: {areaTrapezio.ToString("F3", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"QUADRADO: {areaQuadrado.ToString("F3", CultureInfo.InvariantCulture)}");
+            Console.WriteLine($"RETÂNGULO: {areaRetangulo.ToString("F3", CultureInfo.InvariantCulture)}");
         }
         #endregion
     }
