@@ -7,8 +7,14 @@ namespace ExercEstruturaCondicional
     {
         static void Main(string[] args)
         {
+            DescobreNumeroNegativo();
+            DescobreNumeroParImpar();
+            DescobreMultiplo();
+            TotalHorasJogadas();
             CalcularProduto();
             VerificaIntervalo();
+            VerificaEixo();
+            CalculaImpostoRenda();
         }
 
         #region Exercício 1
@@ -190,6 +196,95 @@ namespace ExercEstruturaCondicional
             else
             {
                 Console.WriteLine("Intervalo (75,100])");
+            }
+        }
+        #endregion
+
+        #region Exercício 7
+        /*
+         * Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano.
+         * A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).
+         * Se o ponto estiver na origem, escreva a mensagem “Origem”. Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”,
+         * conforme for a situação.
+         */
+
+        public static void VerificaEixo()
+        {
+            Console.Write("Digite dois valores separados por um espaço: ");
+            string[] valores = Console.ReadLine().Split(' ');
+
+            double x = double.Parse(valores[0], CultureInfo.InvariantCulture);
+            double y = double.Parse(valores[1], CultureInfo.InvariantCulture);
+
+            if (x == 0.0 && y == 0.0)
+            {
+                Console.WriteLine("Origem");
+            }
+            else if (x == 0.0)
+            {
+                Console.WriteLine("Eixo Y");
+            }
+            else if (y == 0.0)
+            {
+                Console.WriteLine("Eixo X");
+            }
+            else if (x > 0.0 && y > 0.0)
+            {
+                Console.WriteLine("Q1");
+            }
+            else if (x < 0.0 && y > 0.0)
+            {
+                Console.WriteLine("Q2");
+            }
+            else if (x < 0.0 && y < 0.0)
+            {
+                Console.WriteLine("Q3");
+            }
+            else
+            {
+                Console.WriteLine("Q4");
+            }
+        }
+        #endregion
+
+        #region Exercício 8
+        /*
+         * Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem que nele não existem
+         * políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem qualquer desvio. A moeda deste país é o
+         * Rombus, cujo símbolo é o R$. Leia um valor com duas casas decimais, equivalente ao salário de uma pessoa de Lisarb. Em seguida,
+         * calcule e mostre o valor que esta pessoa deve pagar de Imposto de Renda, segundo a tabela abaixo.
+         */
+
+        public static void CalculaImpostoRenda()
+        {
+            Console.Write("Digite o valor do salário: ");
+            double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+            double imposto;
+            if (salario <= 2000.0)
+            {
+                imposto = 0.0;
+            }
+            else if (salario <= 3000.0)
+            {
+                imposto = (salario - 2000.0) * 0.08;
+            }
+            else if (salario <= 4500.0)
+            {
+                imposto = (salario - 3000.0) * 0.18 + 1000.0 * 0.08;
+            }
+            else
+            {
+                imposto = (salario - 4500.0) * 0.28 + 1500.0 * 0.18 + 1000.0 * 0.08;
+            }
+
+            if (imposto == 0.0)
+            {
+                Console.WriteLine("Isento");
+            }
+            else
+            {
+                Console.WriteLine("R$ " + imposto.ToString("F2", CultureInfo.InvariantCulture));
             }
         }
         #endregion
